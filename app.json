@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "eyesONmarket",
+    "slug": "eyesONmarket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
