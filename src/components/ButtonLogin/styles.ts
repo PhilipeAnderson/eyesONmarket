@@ -18,11 +18,3 @@ export const ImgGoogle = styled.Image`
   height: 35px;
   margin: 0 auto;
 `;
-
-export const TextLogin = styled.Text`
-  width: 70%;
-  color: #000000;
-  text-align: center;
-  font-size: 18px;
-  font-weight: bold;
-`;

@@ -12,9 +12,9 @@ export function Login() {
       <NameApp>Eyes On Market</NameApp>
       <TextWelcome>
         Entre no seu app através de uma conta Google e confira 
-        onde no mercado estão seus produtos de favoritos.
+        onde no mercado estão seus produtos favoritos.
       </TextWelcome>
-      <TextTitle>Login</TextTitle>
+      <TextTitle>Faça seu Login</TextTitle>
       <ButtonLogin />
     </Container>
   )
