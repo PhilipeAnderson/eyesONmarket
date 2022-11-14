@@ -17,6 +17,7 @@ export function ButtonLogin() {
     try {
       const CLIENT_ID = "146877447882-9cgdvfh16md2kd5g1qo2lle7coddkp04.apps.googleusercontent.com";
       const REDIRECT_URI = "https://auth.expo.io/@philipeacampos/eyesonmarket";
+      ";
       const SCOPE = encodeURI("profile email");
       const RESPONSE_TYPE = "token";
 
