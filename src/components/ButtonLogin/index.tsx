@@ -31,8 +31,6 @@ export function ButtonLogin() {
     }
   }
 
-
-
   return(
     <Container
       onPress = { handleGoogleSignIn }
